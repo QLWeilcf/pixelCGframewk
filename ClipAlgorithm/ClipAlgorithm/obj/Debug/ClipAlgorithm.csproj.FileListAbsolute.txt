@@ -1,0 +1,9 @@
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\bin\Debug\ClipAlgorithm.exe.config
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\bin\Debug\ClipAlgorithm.exe
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\bin\Debug\ClipAlgorithm.pdb
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\obj\Debug\ClipAlgorithm.csprojResolveAssemblyReference.cache
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\obj\Debug\ClipAlgorithm.Form1.resources
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\obj\Debug\ClipAlgorithm.Properties.Resources.resources
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\obj\Debug\ClipAlgorithm.csproj.GenerateResource.Cache
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\obj\Debug\ClipAlgorithm.exe
+E:\ComputerGraphicsProj\CptGraphicsCsharp\ClipAlgorithm\ClipAlgorithm\obj\Debug\ClipAlgorithm.pdb
