@@ -15,5 +15,5 @@ a pixel frame for Computer Graphics
 ### ClipAlgorithm 
 
 ### polyhedronProjection
-
+see at [here](https://github.com/QLWeilcf/pixelCGframewk/blob/master/polyhedronProjection/readme.md)
 
