@@ -1,0 +1,9 @@
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\bin\Debug\rubberInGDIplus.exe.config
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\bin\Debug\rubberInGDIplus.exe
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\bin\Debug\rubberInGDIplus.pdb
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\obj\Debug\rubberInGDIplus.csprojResolveAssemblyReference.cache
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\obj\Debug\rubberInGDIplus.rubberEffectForm.resources
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\obj\Debug\rubberInGDIplus.Properties.Resources.resources
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\obj\Debug\rubberInGDIplus.csproj.GenerateResource.Cache
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\obj\Debug\rubberInGDIplus.exe
+c:\users\ricardolcf\documents\visual studio 2017\Projects\rubberInGDIplus\rubberInGDIplus\obj\Debug\rubberInGDIplus.pdb
