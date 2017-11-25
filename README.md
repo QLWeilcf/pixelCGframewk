@@ -29,4 +29,7 @@ a pixel frame for Computer Graphics
 
 ### polyhedronProjection
 see at [here](https://github.com/QLWeilcf/pixelCGframewk/blob/master/polyhedronProjection/readme.md)
+改变坐标系，初始化一些默认值，画坐标轴，初始化一个长方体，用默认的视点投影该长方体。交互上包括单选框、输入框和按钮；单选框和输入框都有初始值，代码会对输入值进行检查，单选框的值改变代码会应答，能直接看到效果，改变时传入的值为改变前的空间点坐标；按钮可以直接点击。输入框的值改变在点击按钮时生效。
+-  点击投影按钮时采用的是默认的空间多面体，因此采用的点坐标不是在自动旋转中以及停止时的点，不会展示多面体转到某个位置时改变视点的效果。
+
 
