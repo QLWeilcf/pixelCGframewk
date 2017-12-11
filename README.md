@@ -26,7 +26,7 @@ a pixel frame for Computer Graphics
 6，代码中存在几种坐标系下的坐标；默认坐标指原点在窗体左上角的坐标；xy坐标系指原点在方格左下角的坐标系；像素点坐标是在xy坐标系下原来wsize个像素（默认为10）下为一个像素的坐标，winForm坐标指原来xy坐标系的坐标，例如winForm坐标点(203,127)对应的像素点坐标为（20,12）。
 
 ### ClipAlgorithm 
-
+裁剪效果的算法
 ### polyhedronProjection
 see at [here](https://github.com/QLWeilcf/pixelCGframewk/blob/master/polyhedronProjection/readme.md)
 改变坐标系，初始化一些默认值，画坐标轴，初始化一个长方体，用默认的视点投影该长方体。交互上包括单选框、输入框和按钮；单选框和输入框都有初始值，代码会对输入值进行检查，单选框的值改变代码会应答，能直接看到效果，改变时传入的值为改变前的空间点坐标；按钮可以直接点击。输入框的值改变在点击按钮时生效。
