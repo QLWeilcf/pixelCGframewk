@@ -1,0 +1,9 @@
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\bin\Debug\bezierCarveProj.exe.config
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\bin\Debug\bezierCarveProj.exe
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\bin\Debug\bezierCarveProj.pdb
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\obj\Debug\bezierCarveProj.csprojResolveAssemblyReference.cache
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\obj\Debug\bezierCarveProj.bezierMainForm.resources
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\obj\Debug\bezierCarveProj.Properties.Resources.resources
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\obj\Debug\bezierCarveProj.csproj.GenerateResource.Cache
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\obj\Debug\bezierCarveProj.exe
+E:\ComputerGraphicsProj\CptGraphicsCsharp\bezierCarveProj\bezierCarveProj\obj\Debug\bezierCarveProj.pdb
