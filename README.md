@@ -34,6 +34,8 @@ see at [here](https://github.com/QLWeilcf/pixelCGframewk/blob/master/polyhedronP
 -  点击投影按钮时采用的是默认的空间多面体，因此采用的点坐标不是在自动旋转中以及停止时的点，不会展示多面体转到某个位置时改变视点的效果。
 
 ### bezierCarveProj
+
+交互画出贝塞尔曲线
 其具有的功能有：
 
 - 橡皮筋效果
