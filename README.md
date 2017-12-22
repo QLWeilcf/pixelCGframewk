@@ -14,6 +14,9 @@ a pixel frame for Computer Graphics
 - 双缓冲技术实现橡皮筋技术
 - [x] bezierCarveProj
 - 绘制贝塞尔曲线
+
+-[x] XMLrwConsole.cs
+
 ## THE DEETAILS
 ### drawArcWithBresenham
 
